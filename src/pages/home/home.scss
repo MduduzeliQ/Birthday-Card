@@ -1,0 +1,28 @@
+page-home {
+.title{
+    text-align: center;
+    font-family: Arial;
+}
+.bgcolor{
+   background-image: url('../../assets/mdu.png');
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.image{
+    height: 200px;
+    width:220px;
+    opacity: 0.90px;
+    display: block;
+    margin: 30px auto;
+  
+}
+.para{
+   font-family: arial;
+   font-size: 15px;
+   text-align: center;
+}
+.hr1{
+    background-color: red;
+}
+}
